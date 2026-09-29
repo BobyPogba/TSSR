@@ -1,8 +1,8 @@
-#**J'utilise des références rangées dans trois catégories pour ma veille informatique :**
+# **J'utilise des références rangées dans trois catégories pour ma veille informatique :**
 
 
 
-##**1ere catégorie, Informatique Générale :**
+## **1ere catégorie, Informatique Générale :**
 
 
 InformatiqueNews.fr
@@ -15,7 +15,7 @@ Tom's Hardware
 Tutos-Informatique
 
 
-##**2eme catégorie, Linux :**
+## **2eme catégorie, Linux :**
 
 
 Communauté Fedora-Fr
@@ -25,7 +25,7 @@ LinuxFr.org : les journeaux
 Planet Debian French
 Wiki ubuntu-fr
 
-##**3eme catégorie, Security :**
+## **3eme catégorie, Security :**
 
 Actualités intrusion hacking
 Actualités securite
