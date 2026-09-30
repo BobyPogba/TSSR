@@ -52,5 +52,4 @@
 |Tom's Hardware          |                            |Red Siege Information Security|
 |Tutos-Informatique      |                            |Red Team Security             |
 |                        |                            |Root Me                       |
-|                        |                            |                              |
 
