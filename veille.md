@@ -25,7 +25,7 @@
 - Planet Debian French : https://planet.debian.org/fr/
 - Wiki ubuntu-fr : https://doc.ubuntu-fr.org/
 
-## **3eme catégorie, Security :**
+## **3eme catégorie, Cybersécurité :**
 
 - Actualités intrusion hacking : https://www.lemondeinformatique.fr/intrusion-hacking-et-pare-feu-36.html
 - TryHackMe Blog : https://tryhackme.com/room/blog
