@@ -42,7 +42,7 @@ TryHackMe Blog
 
 
 
-|Informatique Générale   |Linux                       |Security                      |    
+|Informatique Générale   |Linux                       |Cybersécurité                 |    
 |------------------------|----------------------------|------------------------------|
 |InformatiqueNews.fr     |Communauté Fedora-Fr        |Actualités intrusion hacking  |
 |IT-Connect              |Debian-facile / News        |Actualités securite           |
@@ -56,3 +56,4 @@ TryHackMe Blog
 |                        |                            |Root Me                       |
 |                        |                            |Sécurité informatique         |
 |                        |                            |TryHackMe Blog                | 
+
