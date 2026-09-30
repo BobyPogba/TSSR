@@ -5,30 +5,29 @@
 ## **1ere catégorie, Informatique Générale :**
 
 
-- InformatiqueNews.fr
-- IT-Connect
-- Le comptoir du hardware
-- RDR-IT
-- Tech2Tech
-- Techno-Science.net
-- Tom's Hardware
-- Tutos-Informatique
+- InformatiqueNews.fr : https://www.informatiquenews.fr/
+- IT-Connect : https://www.it-connect.fr/
+- Le comptoir du hardware : https://www.comptoir-hardware.com/
+- RDR-IT : https://rdr-it.com/
+- Tech2Tech : https://www.tech2tech.fr/
+- Techno-Science.net : https://www.techno-science.net/fr
+- Tom's Hardware : https://www.tomshardware.fr/
+- Tutos-Informatique : https://www.tutos-informatique.com/
 
 
 ## **2eme catégorie, Linux :**
 
 
-- Communauté Fedora-Fr
-- Debian-facile / News
-- GLPI Project
-- LinuxFr.org : les journeaux
-- Planet Debian French
-- Wiki ubuntu-fr
+- Communauté Fedora-Fr : https://www.fedora-fr.org/
+- Debian-facile / News : https://debian-facile.org/asso.php?section=news
+- GLPI Project : https://www.glpi-project.org/fr/
+- LinuxFr.org : les journeaux : https://linuxfr.org/journaux
+- Planet Debian French : https://planet.debian.org/fr/
+- Wiki ubuntu-fr : https://doc.ubuntu-fr.org/
 
 ## **3eme catégorie, Security :**
 
-- Actualités intrusion hacking
-- Actualités securite
+- Actualités intrusion hacking : https://www.lemondeinformatique.fr/intrusion-hacking-et-pare-feu-36.html
 - CERT-FR
 - Cyber Security Blog
 - Cyberguerre
@@ -45,7 +44,7 @@
 |Informatique Générale   |Linux                       |Cybersécurité                 |    
 |------------------------|----------------------------|------------------------------|
 |InformatiqueNews.fr     |Communauté Fedora-Fr        |Actualités intrusion hacking  |
-|IT-Connect              |Debian-facile / News        |Actualités securite           |
+|IT-Connect              |Debian-facile / News        |TryHackMe Blog                |
 |Le comptoir du hardware |GLPI Project                |CERT-FR                       |
 |RDR-IT                  |LinuxFr.org : les journeaux |Cyber Security Blog           |
 |Tech2Tech               |Planet Debian French        |Cyberguerre                   |
@@ -55,5 +54,5 @@
 |                        |                            |Réseau & Sécurité             |
 |                        |                            |Root Me                       |
 |                        |                            |Sécurité informatique         |
-|                        |                            |TryHackMe Blog                | 
+|                        |                            |                              | 
 
