@@ -5,14 +5,14 @@
 ## **1ere catégorie, Informatique Générale :**
 
 
-- InformatiqueNews.fr : https://www.informatiquenews.fr/
-- IT-Connect : https://www.it-connect.fr/
+- InformatiqueNews.fr :     https://www.informatiquenews.fr/
+- IT-Connect :              https://www.it-connect.fr/
 - Le comptoir du hardware : https://www.comptoir-hardware.com/
-- RDR-IT : https://rdr-it.com/
-- Tech2Tech : https://www.tech2tech.fr/
-- Techno-Science.net : https://www.techno-science.net/fr
-- Tom's Hardware : https://www.tomshardware.fr/
-- Tutos-Informatique : https://www.tutos-informatique.com/
+- RDR-IT :                  https://rdr-it.com/
+- Tech2Tech :               https://www.tech2tech.fr/
+- Techno-Science.net :      https://www.techno-science.net/fr
+- Tom's Hardware :          https://www.tomshardware.fr/
+- Tutos-Informatique :      https://www.tutos-informatique.com/
 
 
 ## **2eme catégorie, Linux :**
