@@ -28,16 +28,16 @@
 ## **3eme catégorie, Security :**
 
 - Actualités intrusion hacking : https://www.lemondeinformatique.fr/intrusion-hacking-et-pare-feu-36.html
-- CERT-FR
-- Cyber Security Blog
-- Cyberguerre
-- Data Security Breach
-- Red Siege Information Security
-- Red Team Security
-- Réseau & Sécurité
-- Root Me
-- Sécurité informatique
-- TryHackMe Blog
+- TryHackMe Blog : https://tryhackme.com/room/blog
+- CERT-FR : https://www.cert.ssi.gouv.fr/
+- Cyber Security Blog : https://www.keepersecurity.com/blog/fr/2023/06/20/the-best-cybersecurity-blogs-and-sites/
+- Cyberguerre : https://www.futura-sciences.com/tech/cyberguerre/actualites/
+- Data Security Breach : https://www.datasecuritybreach.fr/
+- Red Siege Information Security : https://redsiege.com/
+- Red Team Security : https://redteamnews.com/
+- Root Me : https://www.root-me.org/?lang=en
+
+
 
 
 
@@ -51,8 +51,6 @@
 |Techno-Science.net      |Wiki ubuntu-fr              |Data Security Breach          |
 |Tom's Hardware          |                            |Red Siege Information Security|
 |Tutos-Informatique      |                            |Red Team Security             |
-|                        |                            |Réseau & Sécurité             |
 |                        |                            |Root Me                       |
-|                        |                            |Sécurité informatique         |
-|                        |                            |                              | 
+|                        |                            |                              |
 
