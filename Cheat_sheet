@@ -41,31 +41,31 @@ Le flux de démarrage d'un PC suit une séquence logique stricte pour initialise
 
 https://eylenburg.github.io/os_familytree.htm
 
-## ⏳ Frise Chronologique de l'IT
+## Frise Chronologique de l'IT
 
-### 📅 Années 1960
+### Années 1960
 *   **1969 :** Naissance de l'entreprise **Intel**.
 
-### 📅 Années 1970
+### Années 1970
 *   **1970 :** Naissance d'**UNIX**, le père de toute chose. Système d'exploitation multi-tâche et multi-utilisateur écrit en **langage C**.
 *   **1977 :** Sortie de l'**Apple II**, l'un des premiers ordinateurs personnels de masse.
 *   **1978 :** Sortie du processeur **Intel 8086** (architecture 16 bits), jetant les bases de l'architecture x86 actuelle.
 
-### 📅 Années 1980
+### Années 1980
 *   **1979 :** Naissance de **BSD** (*Berkeley Software Distribution*), fils direct d'UNIX. Plus léger et universel (FreeBSD, OpenBSD, NetBSD). La quasi-totalité des routeurs tourne sous BSD, et le système **macOS** en est directement issu.
 *   **1980 :** Lancement de **MS-DOS**.
 *   **1985 :** Sortie de **Windows 1.0** (simple surcouche graphique de MS-DOS).
 
-### 📅 Années 1990
+### Années 1990
 *   **1990 :** Sortie de Windows 3.0, marquant le début du Windows **"moderne"** et son premier grand succès commercial.
 *   **1991 :** Naissance de **LINUX** (noyau créé par Linus Torvalds combiné aux outils GNU). Aujourd'hui, la quasi-intégralité des serveurs mondiaux et du cloud tourne sous Linux.
 
-### 📅 Années 2000
+### Années 2000
 *   **2001 :** Sortie de **Windows XP** (version interne NT 5.1). Fin de l'ère MS-DOS pour le grand public, bascule complète sur le noyau stable **Windows NT**.
 *   **2006 :** Sortie de **Windows Vista** (noyau NT 6.0).
 *   **2007 :** Révolution mobile avec la naissance d'**Android** et d'**iOS**.
 *   **2009 :** Sortie de **Windows 7**, le prodige de stabilité de Microsoft (noyau NT 6.1).
 
-### 📅 Années 2010 à aujourd'hui
+### Années 2010 à aujourd'hui
 *   **2012 :** Sortie de **Windows 8** (abandon du menu démarrer classique pour une interface tuiles/tactile).
 
