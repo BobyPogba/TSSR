@@ -4,7 +4,7 @@
 
 ---
 
-## 🎹 Raccourcis Clavier Windows (Win + ...)
+## Raccourcis Clavier Windows (Win + ...)
 
 | Raccourci | Action |
 | :--- | :--- |
@@ -40,13 +40,13 @@
 | **Win + U** | Ouvrir le centre d'Accessibilité (options d'ergonomie) |
 | **Win + Plus (+)** / **Moins (-)**| Activer la Loupe Windows et zoomer / dézoomer |
 
-### 💡 Autre raccourci utile
+### Autre raccourci utile
 * **Alt + D** : Sélectionner et copier l'URL dans un navigateur ou le chemin d'accès dans l'Explorateur de fichiers.
 
 ---
 
-## 🛠️ Consoles de gestion Microsoft (.MSC)
-*Ces commandes s'exécutent généralement via la boîte de dialogue **Win + R**.*
+## Consoles de gestion Microsoft (.MSC)
+*Ces commandes s'exécutent avec la boîte de dialogue **Win + R**.*
 
 | Commande | Nom de la console | Description / Utilité |
 | :--- | :--- | :--- |
@@ -64,7 +64,7 @@
 
 ---
 
-## ⚙️ Panneaux de configuration (.CPL)
+## Panneaux de configuration (.CPL)
 *Ces commandes permettent d'accéder directement aux anciens ou nouveaux modules du panneau de configuration.*
 
 | Commande | Module cible | Description / Utilité |
@@ -83,7 +83,7 @@
 
 ---
 
-## 💻 Utilitaires Système et Commandes CLI Fondamentales
+## Utilitaires Système et Commandes CLI Fondamentales
 *Commandes universelles pour le diagnostic et la configuration (à taper dans **Win + R**, **CMD**, ou **PowerShell**).*
 
 | Commande | Type / Outil | Description / Utilité |
